@@ -20,6 +20,20 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ## Project Structure
 ---
 ## Pipeline Workflow
+1. Healthcare dataset ingestion
+2. Kafka Producer
+3. Kafka Consumer
+4. Data Quality Validation
+5. Quarantine invalid records
+6. Bronze Layer
+7. Silver Layer
+8. Gold Layer
+9. Document Chunking
+10. Embedding Generation
+11. ChromaDB Vector Database
+12. Hybrid Search
+13. Groq LLM
+14. Final AI Response
 ---
 ## Data Quality
 
