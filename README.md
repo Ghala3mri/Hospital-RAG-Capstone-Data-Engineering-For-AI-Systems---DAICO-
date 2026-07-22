@@ -4,7 +4,22 @@ This project demonstrates an end-to-end AI Data Engineering pipeline for healthc
 The pipeline simulates real-time patient data ingestion, validates data quality, stores clean data in a Delta Lakehouse architecture, and builds a Retrieval-Augmented Generation (RAG) system that answers healthcare-related questions from medical documents.
 This project was developed as a Capstone Project covering modern Data Engineering and Generative AI concepts.
 
-
+Kafka producer
+      │
+      ▼
+Kafka consumer + Pydantic contract ──► quarantine zone + DLQ topic
+      │ (valid records only)
+      ▼
+Bronze (Delta, append-only)
+      │
+      ▼
+Silver (Delta MERGE upsert on business key)
+      │
+      ▼
+Quality Gate (Great Expectations) ──► raises on failure, halting the pipeline
+      │
+      ├──────────────► Gold (Delta aggregate)
+      └──────────────► RAG pipeline
 
 👩‍💻 Developed By
 Ghala Alamri
