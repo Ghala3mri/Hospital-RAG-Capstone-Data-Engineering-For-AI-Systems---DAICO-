@@ -10,6 +10,10 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ---
 ## Project Objectives
 ---
+## Technologies
+---
+## Project Structure
+---
 ## Pipeline Archietcture
 ```text
 Kafka Producer
