@@ -12,41 +12,4 @@ Ghaida Alwasel
 Sara Al-Sa'ed
 
 
-🏗️ Architecture
-Healthcare Dataset
-        │
-        ▼
-Kafka Producer
-        │
-        ▼
-Kafka Consumer
-        │
-        ▼
-Quality Validation
-        │
- ┌──────┴─────────┐
- │                │
- ▼                ▼
-Delta Lake     Quarantine
-(Bronze)
-        │
-        ▼
-Silver Layer
-        │
-        ▼
-Gold Layer
-        │
-        ▼
-Chunking
-        │
-        ▼
-Embeddings
-        │
-        ▼
-ChromaDB
-        │
-        ▼
-Hybrid Search
-        │
-        ▼
-LLM Response
+
