@@ -24,6 +24,15 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ## Data Quality
 ---
 ## RAG Pipelin
+The RAG system includes:
+
+- PDF document loading
+- Chunking
+- Embeddings
+- ChromaDB
+- Hybrid Search
+- Cross-Encoder Re-ranking
+- LLM Answer Generation
 ---
 ## How to Run
 1. Open the notebook in Google Colab.
