@@ -22,6 +22,16 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ## Pipeline Workflow
 ---
 ## Data Quality
+
+The pipeline validates:
+
+- Schema Validation
+- Null Values
+- Data Types
+- Duplicate Records
+- Range Validation
+
+Invalid records are redirected to a Quarantine Zone.
 ---
 ## RAG Pipelin
 The RAG system includes:
