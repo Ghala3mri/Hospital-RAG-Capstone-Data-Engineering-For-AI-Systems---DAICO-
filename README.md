@@ -7,7 +7,7 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 
 
 ---
-
+# Pipeline Archietcture
 ```text
 Kafka Producer
       │
