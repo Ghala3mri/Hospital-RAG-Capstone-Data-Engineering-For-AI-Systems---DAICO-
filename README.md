@@ -44,8 +44,8 @@ Quarantine Bronze
 ```
 ---
 ## 👩‍💻 Developed By:
-Ghala Alamri
-Ghaida Alwasel
+Ghala Alamri - 
+Ghaida Alwasel - 
 Sara Al-Sa'ed
 
 
