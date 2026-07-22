@@ -9,6 +9,11 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 
 ---
 ## Project Objectives
+- Stream healthcare data using Kafka
+- Validate data quality
+- Store data in Delta Lake
+- Build a RAG pipeline
+- Orchestrate using Apache Airflow
 ---
 ## Technologies
 ---
