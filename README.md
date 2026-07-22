@@ -30,6 +30,26 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 - OpenLineage
 ---
 ## Project Structure
+```text
+
+Hospital-RAG-Pipeline/
+
+│
+
+├── Hospital_Capstone.ipynb
+
+├── README.md
+
+├── requirements.txt
+
+├── data/
+
+├── pdf/
+
+├── images/
+
+└── output/
+```
 ---
 ## Pipeline Workflow
 1. Healthcare dataset ingestion
