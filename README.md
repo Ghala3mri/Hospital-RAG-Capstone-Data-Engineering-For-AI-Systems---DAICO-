@@ -26,6 +26,12 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ## RAG Pipelin
 ---
 ## How to Run
+1. Open the notebook in Google Colab.
+2. Install the required libraries.
+3. Upload the healthcare dataset.
+4. Upload medical PDF documents.
+5. Run all notebook cells.
+6. Ask questions through the RAG pipeline.
 ---
 ## Pipeline Archietcture
 ```text
