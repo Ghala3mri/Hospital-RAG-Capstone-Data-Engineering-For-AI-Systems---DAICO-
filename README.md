@@ -1,4 +1,5 @@
-# Project Overview
+# Hospital RAG Pipeline
+## Project Overview
 
 
 This project demonstrates an end-to-end AI Data Engineering pipeline for healthcare data.
@@ -7,7 +8,9 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 
 
 ---
-# Pipeline Archietcture
+## Project Objectives
+---
+## Pipeline Archietcture
 ```text
 Kafka Producer
       │
@@ -40,7 +43,7 @@ Quarantine Bronze
 
 ```
 ---
-👩‍💻 Developed By:
+## 👩‍💻 Developed By:
 Ghala Alamri
 Ghaida Alwasel
 Sara Al-Sa'ed
