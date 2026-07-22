@@ -1,4 +1,4 @@
-🏥 Hospital RAG & Data Quality Pipeline
+#🏥 Hospital RAG & Data Quality Pipeline
  Project Overview
 This project demonstrates an end-to-end AI Data Engineering pipeline for healthcare data.
 The pipeline simulates real-time patient data ingestion, validates data quality, stores clean data in a Delta Lakehouse architecture, and builds a Retrieval-Augmented Generation (RAG) system that answers healthcare-related questions from medical documents.
@@ -37,9 +37,9 @@ Quarantine Bronze
 ```
 
 👩‍💻 Developed By:
-Ghala Alamri
-Ghaida Alwasel
-Sara Al-Sa'ed
+-Ghala Alamri
+-Ghaida Alwasel
+-Sara Al-Sa'ed
 
 
 
