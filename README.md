@@ -6,7 +6,7 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 
 
 
-👩‍💻 Developed By
+👩‍💻 Developed By:
 Ghala Alamri
 Ghaida Alwasel
 Sara Al-Sa'ed
