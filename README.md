@@ -14,6 +14,14 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 ---
 ## Project Structure
 ---
+## Pipeline Workflow
+---
+## Data Quality
+---
+## RAG Pipelin
+---
+## How to Run
+---
 ## Pipeline Archietcture
 ```text
 Kafka Producer
