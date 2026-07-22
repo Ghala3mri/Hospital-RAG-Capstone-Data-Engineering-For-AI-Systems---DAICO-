@@ -136,5 +136,13 @@ Ghala Alamri -
 Ghaida Alwasel - 
 Sara Al-Sa'ed
 
+# Training Attribution   
+Completed as part of : Data Engineering for AI System - SDAIA Academy (DAICO)
+
+Session date :19 jul 2026 - 23 jul 2026
+Trainer :Mohammed Albeladi 
+
+SDAIA Academy on GitHub: 
+https://github.com/SDAIAAcademy
 
 
