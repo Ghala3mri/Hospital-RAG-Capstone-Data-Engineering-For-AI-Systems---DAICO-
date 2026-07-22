@@ -16,6 +16,18 @@ This project was developed as a Capstone Project covering modern Data Engineerin
 - Orchestrate using Apache Airflow
 ---
 ## Technologies
+- Python
+- Google Colab
+- Apache Kafka
+- PySpark
+- Delta Lake
+- ChromaDB
+- Sentence Transformers
+- BM25
+- Groq LLM
+- Apache Airflow
+- Great Expectations
+- OpenLineage
 ---
 ## Project Structure
 ---
