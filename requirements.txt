@@ -1,0 +1,8 @@
+pandas
+pydantic
+kafka-python
+chromadb
+sentence-transformers
+langchain
+pypdf
+groq
